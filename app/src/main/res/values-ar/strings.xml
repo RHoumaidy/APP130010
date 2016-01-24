@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Live Sport</string>
+    <string name="menu_item_contatct_title">تواصل معنا</string>
+    <string name="menu_item_about_title">حول التطبيق</string>
+    <string name="progress_bar_title">"يستم التحميل …"</string>
+    <string name="parse_notification_menu_title">تلقي الإشعارات</string>
+    <string name="menu_item_refresh">تحديث</string>
+</resources>

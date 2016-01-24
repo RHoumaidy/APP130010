@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:icon="@android:drawable/ic_popup_sync"
+        android:title="@string/menu_item_refresh"
+        app:showAsAction="always"
+        android:id="@+id/refreshMenuItem"/>
+    <item
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:id="@+id/aboutUsMenuItem"
+        android:title="@string/menu_item_about_title"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:icon="@android:drawable/ic_menu_call"
+        app:showAsAction="ifRoom"
+        android:title="@string/menu_item_contatct_title"
+        android:id="@+id/contactUsMenuItem"/>
+    <item
+        android:title="@string/parse_notification_menu_title"
+        android:id="@+id/notifMenuItem"
+        android:checkable="true"
+        android:checked="true"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>

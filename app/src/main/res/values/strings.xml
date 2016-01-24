@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="admob_bunner_buttom" translatable="false">ca-app-pub-3112771865384930/1696568602</string>
+    <string name="interstitial_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="parse_notification_enabled" translatable="false">NOTIFICATION_ENABLED</string>
+
+    <string name="app_name">Live Sport</string>
+    <string name="menu_item_about_title">About</string>
+    <string name="menu_item_contatct_title">Contact Us</string>
+    <string name="menu_item_refresh">Refresh</string>
+    <string name="parse_notification_menu_title">Recieve Notifications</string>
+    <string name="progress_bar_title">Loading … </string>
+</resources>
